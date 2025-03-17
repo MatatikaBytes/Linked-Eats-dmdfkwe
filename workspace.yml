@@ -3,6 +3,7 @@ name: Linked Eats
 domains:
 - linkedeats.io
 - linkedeats.io
+- linkedeats.io
 app_properties:
   WELCOME_DATASET_ALIAS: welcome
 default_data_store: Warehouse
